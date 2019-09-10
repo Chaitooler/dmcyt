@@ -29,7 +29,8 @@ No esta implementado, ver el notebook Clustering3 para una implementacion manual
 
 
 # Validacion interna
-.Silhouete
-.Correlacion Confetico (Jerarquico)
+.Silhouete -> Maximizar cohesion
+Se puede usar clustering jerarquico para ordenar la matriz (Matriz de distancias). Funcion imshow para ver grafico tipo mapa de calor
+.Correlacion Confetico (Jerarquico) Cuanto mas cerca de 1 mejor
 .Particion de arbol por distancia o por numero (Jerarquico)
 .Bootstrapping
