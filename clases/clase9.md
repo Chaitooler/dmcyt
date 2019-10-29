@@ -17,6 +17,9 @@ log(p) = a. log(k)
 
 Redes selectivas o no selectivas. Los de alto grado se asocian entre si y los de bajo grado entre si.
 
+HUBS se conectan entre ellos en no selectivas, generalmente
+
+
 
 
 
